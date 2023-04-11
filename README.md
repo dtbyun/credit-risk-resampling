@@ -1,10 +1,7 @@
-# Mod12Challenge Supervised Learning
-Buiding modules on both balanced and imbalanced datasets.
-
 ---
 
 # Description
-Apply supervised learning techniques to predict whether a loan will default based on data supplied by a peer-to-peer lending company.
+Applying supervised learning techniques to predict whether a loan will default based on data supplied by a peer-to-peer lending company.
 
 Define supervised learning & how it is used in the fintech industry.
 
@@ -25,6 +22,7 @@ Apply resampling for the imbalanced class to enhance model performance.
 # Getting Started
 
 Dependencies:
+
 You will need to add the imbalanced-learn and PyDotPlus libraries 
 to your dev virtual environment. The imbalanced-learn library has models that were developed specifially to deal with class imbalance. 
 PyDotPlus will be used to plot a decision tree.
